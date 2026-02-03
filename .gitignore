@@ -1,0 +1,13 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# NumPy data files
+*.npy
+*.npz
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
